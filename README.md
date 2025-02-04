@@ -17,8 +17,8 @@ validador_cartao/
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/validador_cartao.git
-   cd validador_cartao
+   git clone https://github.com/SebastiaoTrindade/validar-cartao.git
+   cd validar_cartao
    ```
 
 2. Execute o programa:
