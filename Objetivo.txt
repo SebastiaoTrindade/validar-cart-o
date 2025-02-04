@@ -1,0 +1,11 @@
+# Criar um validador de cartões de crédito
+
+Exemplos de bandeiras e números iniciais 
+Visa: Começa com o número 4
+Mastercard: Começa com números entre 51 e 55, ou entre 2221 a 2720
+American Express: Começa com 34 ou 37
+Elo: Pode começar com 4011, 4312, 4389, entre outros
+Diners: Começa com 3
+Discover: Começa com 6
+Aura: Começa com 50
+Hipercard: Começa com 38 ou 60
